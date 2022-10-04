@@ -1,3 +1,11 @@
+.punainen {
+    color:firebrick
+}
+
 p {
-    background-color:red;
+    color:firebrick
+}
+
+.pinkki {
+    color:fuchsia
 }
